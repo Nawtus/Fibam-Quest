@@ -1,0 +1,2 @@
+# Fibam-Quest
+Fibam Quest was a game done in the voluntary internship at Aeso - Faculdades Integradas Barros Melo. in a short period of 2 months and with a team of one programmer and one artist. The game is a puzzle with a visual identity totally referring to AESO, it has a menu scene, tutorial screen, level selection scene and 10 levels. The characters were made from the division of the AESO logo. The protagonist needs to save his two friends along the way.
