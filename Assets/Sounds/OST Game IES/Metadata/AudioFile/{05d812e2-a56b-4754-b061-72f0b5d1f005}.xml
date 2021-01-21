@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{05d812e2-a56b-4754-b061-72f0b5d1f005}">
+        <property name="assetPath">
+            <value>Cancela 2.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>24.525215419501134</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47e587a9-ec7c-4a69-8031-d7c22a4bf7d6}</destination>
+        </relationship>
+    </object>
+</objects>

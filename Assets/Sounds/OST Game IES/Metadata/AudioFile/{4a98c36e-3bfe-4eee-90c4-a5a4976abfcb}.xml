@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{4a98c36e-3bfe-4eee-90c4-a5a4976abfcb}">
+        <property name="assetPath">
+            <value>Botão 8.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.29866666666666669</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47e587a9-ec7c-4a69-8031-d7c22a4bf7d6}</destination>
+        </relationship>
+    </object>
+</objects>

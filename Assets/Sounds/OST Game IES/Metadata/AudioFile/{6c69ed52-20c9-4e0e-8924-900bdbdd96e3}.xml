@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{6c69ed52-20c9-4e0e-8924-900bdbdd96e3}">
+        <property name="assetPath">
+            <value>Botão 3.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.26122448979591839</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47e587a9-ec7c-4a69-8031-d7c22a4bf7d6}</destination>
+        </relationship>
+    </object>
+</objects>

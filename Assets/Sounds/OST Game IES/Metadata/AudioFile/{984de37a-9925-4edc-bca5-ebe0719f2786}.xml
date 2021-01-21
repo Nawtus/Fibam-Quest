@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{984de37a-9925-4edc-bca5-ebe0719f2786}">
+        <property name="assetPath">
+            <value>Game IES Música Jogo MASTER 2.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>110.76706249999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47e587a9-ec7c-4a69-8031-d7c22a4bf7d6}</destination>
+        </relationship>
+    </object>
+</objects>
